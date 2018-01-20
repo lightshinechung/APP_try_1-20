@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">滿滿的大機算機</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Str_No1">1</string>
+    <string name="Str_No2">2</string>
+    <string name="Str_No3">3</string>
+    <string name="Str_No4">4</string>
+    <string name="Str_No5">5</string>
+    <string name="Str_No6">6</string>
+    <string name="Str_No7">7</string>
+    <string name="Str_No8">8</string>
+    <string name="Str_No9">9</string>
+    <string name="Str_No10">0</string>
+    <string name="Str_No11">X</string>
+    <string name="Str_No12">/</string>
+    <string name="Str_No13">＋</string>
+    <string name="Str_No14">–</string>
+    <string name="Str_No15">0</string>
+    <string name="Str_No16">＝</string>
+    <string name="Str_No17">．</string>
+    <string name="Str_No18">√</string>
+    <string name="Str_No19">AC</string>
+    <string name="Str_No20">+/-</string>
+
+</resources>
